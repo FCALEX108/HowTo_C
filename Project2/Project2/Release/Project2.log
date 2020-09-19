@@ -1,0 +1,2 @@
+﻿Source1.obj : error LNK2005: _main уже определен в Source.obj
+C:\Users\enosk\source\repos\FCALEX108\HowTo_C\Project2\Release\Project2.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
