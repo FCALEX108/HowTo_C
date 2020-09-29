@@ -1,0 +1,35 @@
+mov 0,r0
+
+out r0,p0
+
+mov 200,r1
+
+out r1,p1
+
+mov 500,r2
+
+out r2,p2
+
+mov D80,r3
+
+out r3,p3
+
+mov  1240,r0
+
+out r0,p4
+
+mov D80,r1 
+
+out r1,p5
+
+mov 500,r2
+
+out r2,p6
+
+mov 200,r3
+
+out r3,p7
+
+m:
+mov 1,r1
+stop
